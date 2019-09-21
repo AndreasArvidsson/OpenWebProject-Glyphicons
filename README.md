@@ -2,7 +2,7 @@
 
 ## Bootstrap glyphicons(only) with added features
 
-I had need for Bootstrap glyphicons in projects with other styling so I used the bootstrap.css files ([Original source](https://getbootstrap.com/docs/3.4/)) and removed everythng except the glyphicons stylings.
+I had need for Bootstrap glyphicons in projects with other styling so I used the bootstrap.css files ([Original source](https://getbootstrap.com/docs/3.4/)) and removed everything except the glyphicons stylings.
 
 ## Includes
 * Bootstrap 3 glyphicons
@@ -21,7 +21,7 @@ import "owp.glyphicons/glyphicons.css";
 
 ## Usage glyphicon-none
 ```javascript
-import "owp.glyphicons/glyphicons-none.css";
+import "owp.glyphicons/glyphicon-none.css";
 ```
 
 ## Usage React component
