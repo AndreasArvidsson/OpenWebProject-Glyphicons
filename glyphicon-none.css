@@ -1,0 +1,9 @@
+/**
+ * @author Andreas Arvidsson
+ * https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons
+ */
+.glyphicon-none {
+    color: transparent !important;
+    background-color: transparent;
+    width: 1em;
+}
