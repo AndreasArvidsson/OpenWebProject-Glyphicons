@@ -3,12 +3,7 @@
     "description": "Bootstrap glyphicons(only) with added features",
     "version": "1.0.3",
     "main": "index.js",
-    "scripts": {
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons.git"
-    },
+    "scripts": {},
     "keywords": [
         "glyphicons",
         "Open Web Project",
@@ -16,8 +11,12 @@
     ],
     "author": "Andreas Arvidsson",
     "license": "MIT",
+    "homepage": "https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons.git"
+    },
     "bugs": {
         "url": "https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons/issues"
-    },
-    "homepage": "https://github.com/AndreasArvidsson/OpenWebProject-Glyphicons"
+    }
 }
