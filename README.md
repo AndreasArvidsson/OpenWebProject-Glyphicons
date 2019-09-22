@@ -1,6 +1,6 @@
 # OpenWebProject Glyphicons
 
-## Bootstrap glyphicons(only) with added features
+**Bootstrap glyphicons(only) with added features**
 
 I had need for Bootstrap glyphicons in projects with other styling so I used the bootstrap.css files ([Original source](https://getbootstrap.com/docs/3.4/)) and removed everything except the glyphicons stylings.
 
@@ -22,11 +22,14 @@ import "owp.glyphicons/glyphicons.css";
 ## Usage glyphicon-none
 ```javascript
 import "owp.glyphicons/glyphicon-none.css";
+
+<span class="glyphicon glyphicon-none"></span>
 ```
 
 ## Usage React component
 ```javascript
 import Glyph from "owp.glyphicons";
+
 <Glyph type="plus"/>
 ```
 
