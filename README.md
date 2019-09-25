@@ -28,7 +28,10 @@ import "owp.glyphicons/glyphicon-none.css";
 
 ## Usage React component
 ```javascript
+//Imports component and all css styles
 import Glyph from "owp.glyphicons";
+//Imports just the react component
+import Glyph from "owp.glyphicons/Glyph";
 
 <Glyph type="plus"/>
 ```

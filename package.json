@@ -1,7 +1,7 @@
 {
     "name": "owp.glyphicons",
     "description": "Bootstrap glyphicons(only) with added features",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "main": "index.js",
     "scripts": {},
     "keywords": [
